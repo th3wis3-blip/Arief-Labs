@@ -1,6 +1,6 @@
 # Arief Labs — AI Chat Client
 
-> A fast, private desktop app for Claude & OpenAI. Pay only for what you use.
+> A fast, private desktop app for Claude. Pay only for what you use.
 
 ---
 
